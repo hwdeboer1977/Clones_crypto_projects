@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations with safety checks that revert on error",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SafeaMath.sol": "RoundMath"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SafeaMath.sol": {
+			"keccak256": "0x45a4cc6cb43a132a3a3f427b604062494478498a86b132aff2c2f3721d12a4ef",
+			"license": "Unlicense",
+			"urls": [
+				"bzz-raw://ebbd89067369f73b6ab300a1b6728cd03a3447efcfed2ad11b96b7efcc811749",
+				"dweb:/ipfs/QmUyM3qpyLcP1CVmgxxEf2nEAV8A1FF4ProuCx65wacb4x"
+			]
+		}
+	},
+	"version": 1
+}
